@@ -1,4 +1,4 @@
-# 📦 aarch64-linux-android-4.9 Toolchain (For ARM64 Phones)
+# 📦 aarch64-linux-android-4.9 Toolchain (For use on ARM64 Phones)
 
 🔧 A **custom, portable GCC 4.9 toolchain targeting `aarch64-linux-android`**, designed specifically for building directly on ARM64-based Android phones using:
 
